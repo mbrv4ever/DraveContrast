@@ -2,6 +2,12 @@
 
 Kleurcontrast-checker volgens WCAG. Kies een tekstkleur en een achtergrond; de app rekent de contrastverhouding uit en zegt of het voldoende is (AA/AAA), met een live voorbeeld. Lokaal, offline, gratis (met donatie).
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveContrast](https://dravenlock.nl/video/DraveContrast.jpg)](https://dravenlock.nl/video/DraveContrast.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveContrast.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.2.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
